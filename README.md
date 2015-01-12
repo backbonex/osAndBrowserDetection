@@ -1,5 +1,5 @@
 # osAndBrowserDetection
-Detects OS and brower and writes CSS class to html element
+Detects OS and browser and writes CSS class to html element
 
 Browser classes:
 * mozilla

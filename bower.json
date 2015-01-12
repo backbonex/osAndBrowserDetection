@@ -1,0 +1,22 @@
+{
+  "name": "osAndBrowserDetection",
+  "main": "osAndBrowserDetection.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/backbonex/osAndBrowserDetection",
+  "authors": [
+    ""
+  ],
+  "description": "Detects OS and browser and writes CSS class to html element",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "OS",
+    "browser",
+    "detection",
+    "html",
+    "class",
+    "css"
+  ],
+  "license": "MIT"
+}
