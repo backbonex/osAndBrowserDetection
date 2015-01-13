@@ -1,4 +1,4 @@
-define(['underscore', 'jquery'], function (_, $) {
+define(['underscore', 'jquery', 'jquery.browser'], function (_, $) {
     "use strict";
 
     var $html = $('html');

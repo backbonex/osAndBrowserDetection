@@ -1,7 +1,7 @@
 {
   "name": "osAndBrowserDetection",
   "main": "osAndBrowserDetection.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/backbonex/osAndBrowserDetection",
   "authors": [
     ""
@@ -18,5 +18,9 @@
     "class",
     "css"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">=1.5",
+    "jquery.browser": ">=0.0.6"
+  }
 }
